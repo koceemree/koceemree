@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Managemanton Schools**
 
-- 🌱 I’m currently learning **HTML,CSS,JS,SELENİUM,TESTNG,CUCUMBER,DOCKER,API,JAVA,DATABASE,BOOSTRAP,JIRA**
+- 🌱 I’m currently learning **JAVA,SELENİUM,TESTNG,CUCUMBER,DOCKER,API,DATABASE,POSTMAN,JIRA,JENKİNS,JUNIT,HTML,CSS,JS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
